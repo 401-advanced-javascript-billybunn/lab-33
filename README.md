@@ -1,24 +1,23 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Remote APIs
 
-### Author: YOUR NAME
+### Author: Billy Bunn
 
 ### Links and Resources
 * [PR]()
-* [CodeSandbox]()
+* [CodeSandbox](https://codesandbox.io/s/6ll7mk749w)
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
+#### Redux Store
+##### `index.js`
+##### `reducers.js`
+##### `actions.js`
 
-###### `foo(thing) -> string`
-<!-- If you finished everything, you should be able to copy/paste the lab requirements and put them in present tense. -->
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
+#### React Components
+##### `index.js`
+##### `app.js`
 
 #### UML
 Link to an image of the UML for your application and response to events
