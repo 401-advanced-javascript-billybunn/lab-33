@@ -6,7 +6,7 @@
 ### Author: Billy Bunn
 
 ### Links and Resources
-* [PR]()
+* [PR](https://github.com/401-advanced-javascript-billybunn/lab-33/pull/1)
 * [CodeSandbox](https://codesandbox.io/s/6ll7mk749w)
 
 ### Modules
